@@ -1,0 +1,21 @@
+
+        body {
+            background-color: linen;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        hr{
+            border-style: none;
+            border-top-style: dotted;
+            border-color: #A84448;
+            border-width: 5px;
+            width: 5%;
+        }
+
+        h1{
+            color: #20262E;
+        }
+
+        h2, h3, h4{
+            color: #4e6e81;
+        }
